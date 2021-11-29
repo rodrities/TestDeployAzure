@@ -1,0 +1,19 @@
+pe/edu/upc/product/controller/ErrorMessage.java
+ pe.edu.upc.product.controller.ErrorMessage
+ pe.edu.upc.product.controller.ErrorMessage$ErrorMessageBuilder
+pe/edu/upc/product/ProductServiceApplication.java
+ pe.edu.upc.product.ProductServiceApplication
+pe/edu/upc/product/service/impl/ProductServiceImpl.java
+ pe.edu.upc.product.service.impl.ProductServiceImpl
+pe/edu/upc/product/entity/Category.java
+ pe.edu.upc.product.entity.Category
+ pe.edu.upc.product.entity.Category$CategoryBuilder
+pe/edu/upc/product/service/ProductService.java
+ pe.edu.upc.product.service.ProductService
+pe/edu/upc/product/controller/ProductController.java
+ pe.edu.upc.product.controller.ProductController
+pe/edu/upc/product/entity/Product.java
+ pe.edu.upc.product.entity.Product
+ pe.edu.upc.product.entity.Product$ProductBuilder
+pe/edu/upc/product/repository/ProductRepository.java
+ pe.edu.upc.product.repository.ProductRepository
